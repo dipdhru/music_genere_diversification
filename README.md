@@ -131,23 +131,7 @@ music-genre-classification/
 
 Li, You, et al. "Music Genre Classification Based on Fusing Audio and Lyric Information." *Multimedia Tools and Applications*, 29 Dec. 2022, https://doi.org/10.1007/s11042-022-14252-6.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📧 Contact
-
-Dipanshu Singh - GH1035704
-
-Project Link: [https://github.com/YOUR_USERNAME/music-genre-classification](https://github.com/YOUR_USERNAME/music-genre-classification)
-
----
-
-⭐ If you found this project helpful, please consider giving it a star!
-# music_genere_diversification
-# music_genere_diversification
-# music_genere_diversification
