@@ -5,7 +5,6 @@ A machine learning project that addresses genre ambiguity and overlap in Spotify
 ## 📋 Project Overview
 
 **Author:** Dipanshu Singh  
-**Student ID:** GH1035704  
 **Course:** M508 - Big Data Analytics
 
 ### Business Problem
